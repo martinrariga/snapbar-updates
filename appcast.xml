@@ -3,6 +3,21 @@
     <channel>
         <title>Snapbar</title>
         <item>
+            <title>0.4</title>
+            <pubDate>Thu, 12 Nov 2026 09:44:26 +0100</pubDate>
+            <link>https://martinrariga.com</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Snapbar 0.4</h2>
+<ul>
+  <li>The smoothed cursor now moves evenly in exported recordings; it no longer stops and jumps when only the mouse is moving.</li>
+  <li>New click indicator: a soft white circle that grows from the click and fades out.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/martinrariga/snapbar-updates/releases/download/updates/Snapbar-0.4.zip" length="2053017" type="application/octet-stream" sparkle:edSignature="MQsI+mMLLzv3WnvFHrPGCqmKNZNARNV7egvLOKDL4/u+tG706IgcryV+yjty6srVs6dEp3iaR2FeLksvPAqSCg=="/>
+        </item>
+        <item>
             <title>0.3</title>
             <pubDate>Wed, 11 Nov 2026 13:56:41 +0100</pubDate>
             <link>https://martinrariga.com</link>
