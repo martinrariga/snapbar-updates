@@ -3,6 +3,20 @@
     <channel>
         <title>Snapbar</title>
         <item>
+            <title>0.6</title>
+            <pubDate>Tue, 17 Nov 2026 17:44:41 +0100</pubDate>
+            <link>https://martinrariga.com</link>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Snapbar 0.6</h2>
+<ul>
+  <li>Turn a recording's audio on or off in the editor: a new speaker button next to the keystrokes switch. Off mutes the preview and saves the video without sound.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/martinrariga/snapbar-updates/releases/download/updates/Snapbar-0.6.zip" length="2114347" type="application/octet-stream" sparkle:edSignature="Xa+afQuOJCGKq2MNjyaTDrXl0QbQO7jTLupBCoOuyP8heYL7RFLftbyq5Iya/OPu3lgUhNZmKhFtNLojrMQ+DA=="/>
+        </item>
+        <item>
             <title>0.5</title>
             <pubDate>Tue, 17 Nov 2026 13:56:06 +0100</pubDate>
             <link>https://martinrariga.com</link>
@@ -32,24 +46,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/martinrariga/snapbar-updates/releases/download/updates/Snapbar-0.4.zip" length="2053017" type="application/octet-stream" sparkle:edSignature="MQsI+mMLLzv3WnvFHrPGCqmKNZNARNV7egvLOKDL4/u+tG706IgcryV+yjty6srVs6dEp3iaR2FeLksvPAqSCg=="/>
-        </item>
-        <item>
-            <title>0.3</title>
-            <pubDate>Wed, 11 Nov 2026 13:56:41 +0100</pubDate>
-            <link>https://martinrariga.com</link>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Snapbar 0.3</h2>
-<ul>
-  <li>The window picker appears instantly after you choose it.</li>
-  <li>Cut in the editor: click the scissors, then click the strip where it should split.</li>
-  <li>Redesigned editor panel: every option is a button on the panel, with tips on hover. Click the speed and quality pills to change them.</li>
-  <li>Esc no longer stops a recording.</li>
-  <li>The size readout while dragging an area matches the rest of the glass interface.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/martinrariga/snapbar-updates/releases/download/updates/Snapbar-0.3.zip" length="2046523" type="application/octet-stream" sparkle:edSignature="R3+XFAnGNkSapHnCgOYCciMjFGETJY/HypdmQovjAPmJ0Y0uClkJjaIAQCCbt6YQG2tqi6KTWJaxk7gXr9/yCA=="/>
         </item>
     </channel>
 </rss>
