@@ -3,6 +3,22 @@
     <channel>
         <title>Snapbar</title>
         <item>
+            <title>0.5</title>
+            <pubDate>Tue, 17 Nov 2026 13:56:06 +0100</pubDate>
+            <link>https://martinrariga.com</link>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Snapbar 0.5</h2>
+<ul>
+  <li>Record your voice: choose a microphone in the new Microphone menu. Pick any connected input, or follow the system default.</li>
+  <li>A small level meter next to the recording time moves as you speak, so you can see your microphone is being picked up.</li>
+  <li>With Record System Audio on as well, your voice and the system sound are mixed into one track that plays everywhere.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/martinrariga/snapbar-updates/releases/download/updates/Snapbar-0.5.zip" length="2107739" type="application/octet-stream" sparkle:edSignature="d+8Svr/Ki6HPoOJqEQfu0kGrFYKjENc+jxGGRFYdPwh2bMDBXTxhcfgqdcpw6KHDXV00EtYpRR5hDf36GDRGCw=="/>
+        </item>
+        <item>
             <title>0.4</title>
             <pubDate>Thu, 12 Nov 2026 09:44:26 +0100</pubDate>
             <link>https://martinrariga.com</link>
@@ -34,15 +50,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/martinrariga/snapbar-updates/releases/download/updates/Snapbar-0.3.zip" length="2046523" type="application/octet-stream" sparkle:edSignature="R3+XFAnGNkSapHnCgOYCciMjFGETJY/HypdmQovjAPmJ0Y0uClkJjaIAQCCbt6YQG2tqi6KTWJaxk7gXr9/yCA=="/>
-        </item>
-        <item>
-            <title>0.2</title>
-            <pubDate>Tue, 10 Nov 2026 22:47:36 +0100</pubDate>
-            <link>https://martinrariga.com</link>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/martinrariga/snapbar-updates/releases/download/updates/Snapbar-0.2.zip" length="2008659" type="application/octet-stream" sparkle:edSignature="rPHU7bEazvDGBXL85knuEvldPaRzr7NdWyjL9jae9CTNOP4pKPzcNAlXrWTg2A6hW1vEoJyJOvb0blSqwpenBg=="/>
         </item>
     </channel>
 </rss>
