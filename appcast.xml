@@ -3,6 +3,20 @@
     <channel>
         <title>Snapbar</title>
         <item>
+            <title>0.7</title>
+            <pubDate>Wed, 18 Nov 2026 13:25:10 +0100</pubDate>
+            <link>https://martinrariga.com</link>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Snapbar 0.7</h2>
+<ul>
+  <li>Snapbar now shares anonymous usage data, such as which recording type and options are used, to help decide what to improve. It never includes recordings, file names or window names. You can turn it off in About Snapbar.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/martinrariga/snapbar-updates/releases/download/updates/Snapbar-0.7.zip" length="2140815" type="application/octet-stream" sparkle:edSignature="XCWdAwh2AeaXTNUpR+yZ5jYnFA+RJKeEW6w7l7nr+06q1rlWdA8q5Mh9Bt00THCl/G/6/5ut1GeXLu1pYuwdAQ=="/>
+        </item>
+        <item>
             <title>0.6</title>
             <pubDate>Tue, 17 Nov 2026 17:44:41 +0100</pubDate>
             <link>https://martinrariga.com</link>
@@ -31,21 +45,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/martinrariga/snapbar-updates/releases/download/updates/Snapbar-0.5.zip" length="2107739" type="application/octet-stream" sparkle:edSignature="d+8Svr/Ki6HPoOJqEQfu0kGrFYKjENc+jxGGRFYdPwh2bMDBXTxhcfgqdcpw6KHDXV00EtYpRR5hDf36GDRGCw=="/>
-        </item>
-        <item>
-            <title>0.4</title>
-            <pubDate>Thu, 12 Nov 2026 09:44:26 +0100</pubDate>
-            <link>https://martinrariga.com</link>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Snapbar 0.4</h2>
-<ul>
-  <li>The smoothed cursor now moves evenly in exported recordings; it no longer stops and jumps when only the mouse is moving.</li>
-  <li>New click indicator: a soft white circle that grows from the click and fades out.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/martinrariga/snapbar-updates/releases/download/updates/Snapbar-0.4.zip" length="2053017" type="application/octet-stream" sparkle:edSignature="MQsI+mMLLzv3WnvFHrPGCqmKNZNARNV7egvLOKDL4/u+tG706IgcryV+yjty6srVs6dEp3iaR2FeLksvPAqSCg=="/>
         </item>
     </channel>
 </rss>
