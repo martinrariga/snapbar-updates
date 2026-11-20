@@ -3,6 +3,23 @@
     <channel>
         <title>Snapbar</title>
         <item>
+            <title>0.8</title>
+            <pubDate>Fri, 20 Nov 2026 13:33:39 +0100</pubDate>
+            <link>https://martinrariga.com</link>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Snapbar 0.8</h2>
+<ul>
+  <li>Record yourself while you record the screen. Choose a camera in the new Camera menu and a round bubble appears inside the recorded area. Drag it anywhere, and click it to switch between three sizes.</li>
+  <li>When recordings open in the editor, the camera can be switched on or off there before saving.</li>
+  <li>Audio, camera and cursor now stay in step after a pause.</li>
+  <li>Microphone and Camera now sit above After Recording in the menu.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/martinrariga/snapbar-updates/releases/download/updates/Snapbar-0.8.zip" length="2242051" type="application/octet-stream" sparkle:edSignature="jNZD8t9r4yLk6sA8GURWKOwzqOzxoHU1OxnGWZUuiEqVkxoN2laUKV8ciBPCcmqLaptc8+bxnb+J2P0csYFiBg=="/>
+        </item>
+        <item>
             <title>0.7</title>
             <pubDate>Wed, 18 Nov 2026 13:25:10 +0100</pubDate>
             <link>https://martinrariga.com</link>
@@ -29,22 +46,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/martinrariga/snapbar-updates/releases/download/updates/Snapbar-0.6.zip" length="2114347" type="application/octet-stream" sparkle:edSignature="Xa+afQuOJCGKq2MNjyaTDrXl0QbQO7jTLupBCoOuyP8heYL7RFLftbyq5Iya/OPu3lgUhNZmKhFtNLojrMQ+DA=="/>
-        </item>
-        <item>
-            <title>0.5</title>
-            <pubDate>Tue, 17 Nov 2026 13:56:06 +0100</pubDate>
-            <link>https://martinrariga.com</link>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Snapbar 0.5</h2>
-<ul>
-  <li>Record your voice: choose a microphone in the new Microphone menu. Pick any connected input, or follow the system default.</li>
-  <li>A small level meter next to the recording time moves as you speak, so you can see your microphone is being picked up.</li>
-  <li>With Record System Audio on as well, your voice and the system sound are mixed into one track that plays everywhere.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/martinrariga/snapbar-updates/releases/download/updates/Snapbar-0.5.zip" length="2107739" type="application/octet-stream" sparkle:edSignature="d+8Svr/Ki6HPoOJqEQfu0kGrFYKjENc+jxGGRFYdPwh2bMDBXTxhcfgqdcpw6KHDXV00EtYpRR5hDf36GDRGCw=="/>
         </item>
     </channel>
 </rss>
